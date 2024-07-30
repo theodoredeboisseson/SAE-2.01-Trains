@@ -1,0 +1,33 @@
+Ci-dessous la liste des cartes à débugger :
+Tester toutes les situations possibles pour les cartes (joue, passe, gagne, perd, cas extreme)
+En gros, c'est toutes les cartes ayant des effets ou dans IO.md ayant un comportement attendu spécial
+
+Placer un X à côté de la carte quand elle est 100% sûre
+
+Atelier de maintenance      X
+Bureau du chef de gare      X
+Cabine du conducteur        X
+Centre de contrôle          X
+Centre de renseignements    X
+Coopération                 X
+Décharge                    X
+Dépôt                       X
+Dépotoir                    X
+Échangeur                   X
+Ferronnerie                 X
+Feu de signalisation        X
+Gare                        X
+Horaires estivaux           X
+Horaires temporaires        X
+Parc d'attractions          X
+Personnel de gare           X
+Pont en acier               X
+Remorquage                  X
+TGV                         X
+Train de marchandises       X
+Train matinal               X
+Train postal                X
+Tunnel                      X
+Usine de wagons             X
+Viaduc                      X
+VoieSouterraine             X
